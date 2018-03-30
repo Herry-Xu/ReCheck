@@ -1,8 +1,4 @@
-# starterhacks2018: Project
+This is a Smart Shopping list that users use to jot down items that they need to buy. When walking past a store that holds an item on the list, the phone will notify you of the price of the item at the store.
 
-Smart Shopping list, put item in shopping list. When walking by that store, phone will vibrate to notify you that you are near a store which carries that item.
-
-uses:  
-shopping list, one store's information (each store gets a textfile), geofencing to find store.  
-
-currently, doesn't work.
+Uses:
+Shopping list; Store's info is stored real-time using a google API; Geofencing is used to find store.  
