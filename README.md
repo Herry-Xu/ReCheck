@@ -1,3 +1,7 @@
+**ReCheck**
+
+![alt text](https://raw.githubusercontent.com/Herry-Xu/Recheck/master/screen.png)
+
 This is a Smart Shopping list that users use to jot down items that they need to buy. When walking past a store that holds an item on the list, the phone will notify you of the price of the item at the store.
 
 Uses:
